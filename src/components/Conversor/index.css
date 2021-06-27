@@ -1,0 +1,14 @@
+.conversor {
+    max-width: 300px;
+    box-shadow: 0 4px 8px rgba(42 147 213);
+    padding: 20px;
+    border-radius: 6px;
+}
+
+.btn_primary {
+    color: #fff;
+    background-color: var(--primary);
+    border-color:  var(--primary);
+    border-radius: 3px;
+    cursor: pointer;
+}
